@@ -35,12 +35,11 @@ Este é um **relógio digital** interativo desenvolvido com **HTML**, **CSS** e 
 
 Aqui está uma captura de tela do relógio em funcionamento:
 
-![Relógio Digital - Tela](![image](https://github.com/user-attachments/assets/6f0bef4b-359e-4a52-8827-8aefcc59d650)
-)
-)
+![image](https://github.com/user-attachments/assets/c788b773-ee48-4179-98e8-073c5a26a983)
+
 
 ## 📬 Contato
 
 - **Email**: luizfsd27@gmail.com
-- **GitHub**:([https://github.com/SeuUsuario](https://github.com/luizfsdd))
+- **GitHub**: https://github.com/luizfsdd
 
